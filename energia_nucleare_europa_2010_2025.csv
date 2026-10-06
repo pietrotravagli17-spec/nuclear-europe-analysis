@@ -1,0 +1,225 @@
+Country,Year,Installed_Capacity_MW,Nuclear_Generation_TWh,Nuclear_Share_Pct,Cluster_Type
+France,2010,63000.0,424.22,70.3,Major Producer
+France,2011,63000.0,408.55,72.5,Major Producer
+France,2012,63000.0,401.52,72.4,Major Producer
+France,2013,63000.0,448.15,73.5,Major Producer
+France,2014,63000.0,398.83,71.1,Major Producer
+France,2015,63000.0,410.51,71.2,Major Producer
+France,2016,63000.0,419.18,68.1,Major Producer
+France,2017,63000.0,418.25,73.4,Major Producer
+France,2018,63000.0,441.25,71.4,Major Producer
+France,2019,63000.0,423.64,70.9,Major Producer
+France,2020,63000.0,430.07,71.1,Major Producer
+France,2021,63000.0,434.25,72.9,Major Producer
+France,2022,63000.0,439.86,54.2,Major Producer
+France,2023,63000.0,409.59,62.6,Major Producer
+France,2024,63000.0,402.02,71.1,Major Producer
+France,2025,63000.0,404.36,73.4,Major Producer
+Germany,2010,20000.0,141.73,20.5,Major Producer
+Germany,2011,18600.0,127.8,20.2,Major Producer
+Germany,2012,17200.0,109.16,18.6,Major Producer
+Germany,2013,15800.0,111.57,18.0,Major Producer
+Germany,2014,14400.0,95.94,20.0,Major Producer
+Germany,2015,13000.0,84.73,16.1,Major Producer
+Germany,2016,11600.0,85.97,13.1,Major Producer
+Germany,2017,10200.0,75.04,12.5,Major Producer
+Germany,2018,8800.0,56.39,8.2,Major Producer
+Germany,2019,7400.0,48.96,5.8,Major Producer
+Germany,2020,6000.0,43.51,4.6,Major Producer
+Germany,2021,4600.0,31.86,3.7,Major Producer
+Germany,2022,0.0,0.0,0.0,Major Producer
+Germany,2023,0.0,0.0,0.0,Major Producer
+Germany,2024,0.0,0.0,0.0,Major Producer
+Germany,2025,0.0,0.0,0.0,Major Producer
+Spain,2010,7100.0,51.03,20.9,Moderate Producer
+Spain,2011,7100.0,50.68,21.3,Moderate Producer
+Spain,2012,7100.0,51.02,19.7,Moderate Producer
+Spain,2013,7100.0,45.72,19.1,Moderate Producer
+Spain,2014,7100.0,51.76,17.7,Moderate Producer
+Spain,2015,7100.0,45.3,21.6,Moderate Producer
+Spain,2016,7100.0,47.3,21.8,Moderate Producer
+Spain,2017,7100.0,49.94,18.7,Moderate Producer
+Spain,2018,7100.0,51.95,18.4,Moderate Producer
+Spain,2019,7100.0,50.55,19.9,Moderate Producer
+Spain,2020,7100.0,50.93,22.2,Moderate Producer
+Spain,2021,7100.0,48.77,20.5,Moderate Producer
+Spain,2022,7100.0,49.01,19.4,Moderate Producer
+Spain,2023,7100.0,45.65,19.9,Moderate Producer
+Spain,2024,7100.0,45.04,17.9,Moderate Producer
+Spain,2025,7100.0,48.89,21.6,Moderate Producer
+Sweden,2010,9000.0,66.07,37.2,Moderate Producer
+Sweden,2011,9000.0,64.51,35.8,Moderate Producer
+Sweden,2012,9000.0,59.11,37.7,Moderate Producer
+Sweden,2013,9000.0,58.42,37.4,Moderate Producer
+Sweden,2014,9000.0,66.29,38.8,Moderate Producer
+Sweden,2015,9000.0,65.7,39.7,Moderate Producer
+Sweden,2016,9000.0,65.0,40.1,Moderate Producer
+Sweden,2017,9000.0,65.95,38.3,Moderate Producer
+Sweden,2018,9000.0,60.02,37.6,Moderate Producer
+Sweden,2019,9000.0,61.14,37.4,Moderate Producer
+Sweden,2020,9000.0,65.15,34.0,Moderate Producer
+Sweden,2021,9000.0,59.04,38.5,Moderate Producer
+Sweden,2022,9000.0,57.99,38.7,Moderate Producer
+Sweden,2023,9000.0,60.08,37.8,Moderate Producer
+Sweden,2024,9000.0,62.08,36.6,Moderate Producer
+Sweden,2025,9000.0,66.72,40.1,Moderate Producer
+Belgium,2010,5900.0,43.68,48.0,Moderate Producer
+Belgium,2011,5900.0,39.23,45.5,Moderate Producer
+Belgium,2012,5900.0,39.13,48.2,Moderate Producer
+Belgium,2013,5900.0,40.59,47.4,Moderate Producer
+Belgium,2014,5900.0,37.56,48.7,Moderate Producer
+Belgium,2015,5900.0,38.82,47.6,Moderate Producer
+Belgium,2016,5900.0,38.19,48.5,Moderate Producer
+Belgium,2017,5900.0,38.84,48.0,Moderate Producer
+Belgium,2018,5900.0,41.73,46.8,Moderate Producer
+Belgium,2019,5900.0,42.11,49.2,Moderate Producer
+Belgium,2020,5900.0,39.68,50.1,Moderate Producer
+Belgium,2021,5900.0,40.81,50.1,Moderate Producer
+Belgium,2022,5900.0,37.82,47.3,Moderate Producer
+Belgium,2023,5900.0,38.47,49.4,Moderate Producer
+Belgium,2024,5900.0,37.49,50.6,Moderate Producer
+Belgium,2025,5900.0,37.32,49.3,Moderate Producer
+Finland,2010,2700.0,18.6,33.0,Small / Niche Producer
+Finland,2011,2700.0,17.57,30.2,Small / Niche Producer
+Finland,2012,2700.0,19.15,32.9,Small / Niche Producer
+Finland,2013,2700.0,17.45,31.8,Small / Niche Producer
+Finland,2014,2700.0,18.08,31.5,Small / Niche Producer
+Finland,2015,2700.0,19.06,32.8,Small / Niche Producer
+Finland,2016,2700.0,19.54,34.0,Small / Niche Producer
+Finland,2017,2700.0,17.77,35.8,Small / Niche Producer
+Finland,2018,2700.0,17.32,29.8,Small / Niche Producer
+Finland,2019,2700.0,18.1,33.8,Small / Niche Producer
+Finland,2020,2700.0,19.26,32.9,Small / Niche Producer
+Finland,2021,2700.0,17.29,33.8,Small / Niche Producer
+Finland,2022,2700.0,17.53,32.3,Small / Niche Producer
+Finland,2023,4455.0,28.15,47.7,Small / Niche Producer
+Finland,2024,4455.0,28.61,46.7,Small / Niche Producer
+Finland,2025,4455.0,31.61,44.6,Small / Niche Producer
+Czech Republic,2010,4300.0,30.31,36.1,Moderate Producer
+Czech Republic,2011,4300.0,28.28,33.6,Moderate Producer
+Czech Republic,2012,4300.0,28.71,36.2,Moderate Producer
+Czech Republic,2013,4300.0,31.28,36.9,Moderate Producer
+Czech Republic,2014,4300.0,30.34,33.7,Moderate Producer
+Czech Republic,2015,4300.0,28.92,35.2,Moderate Producer
+Czech Republic,2016,4300.0,28.42,36.3,Moderate Producer
+Czech Republic,2017,4300.0,30.21,34.6,Moderate Producer
+Czech Republic,2018,4300.0,31.01,39.1,Moderate Producer
+Czech Republic,2019,4300.0,29.53,35.1,Moderate Producer
+Czech Republic,2020,4300.0,28.08,33.6,Moderate Producer
+Czech Republic,2021,4300.0,27.24,36.5,Moderate Producer
+Czech Republic,2022,4300.0,30.28,34.8,Moderate Producer
+Czech Republic,2023,4300.0,31.85,36.1,Moderate Producer
+Czech Republic,2024,4300.0,31.84,34.3,Moderate Producer
+Czech Republic,2025,4300.0,29.01,36.2,Moderate Producer
+Hungary,2010,2000.0,14.55,46.6,Small / Niche Producer
+Hungary,2011,2000.0,13.88,47.2,Small / Niche Producer
+Hungary,2012,2000.0,14.75,48.9,Small / Niche Producer
+Hungary,2013,2000.0,12.84,50.6,Small / Niche Producer
+Hungary,2014,2000.0,14.02,49.6,Small / Niche Producer
+Hungary,2015,2000.0,14.3,48.1,Small / Niche Producer
+Hungary,2016,2000.0,14.2,46.6,Small / Niche Producer
+Hungary,2017,2000.0,13.28,50.1,Small / Niche Producer
+Hungary,2018,2000.0,14.46,48.5,Small / Niche Producer
+Hungary,2019,2000.0,14.69,48.4,Small / Niche Producer
+Hungary,2020,2000.0,13.78,50.2,Small / Niche Producer
+Hungary,2021,2000.0,14.09,48.0,Small / Niche Producer
+Hungary,2022,2000.0,14.21,48.3,Small / Niche Producer
+Hungary,2023,2000.0,13.38,48.3,Small / Niche Producer
+Hungary,2024,2000.0,13.47,48.2,Small / Niche Producer
+Hungary,2025,2000.0,12.7,46.7,Small / Niche Producer
+Slovakia,2010,1900.0,12.99,49.3,Small / Niche Producer
+Slovakia,2011,1900.0,13.26,52.5,Small / Niche Producer
+Slovakia,2012,1900.0,12.05,50.7,Small / Niche Producer
+Slovakia,2013,1900.0,13.11,51.5,Small / Niche Producer
+Slovakia,2014,1900.0,13.65,52.8,Small / Niche Producer
+Slovakia,2015,1900.0,12.17,50.1,Small / Niche Producer
+Slovakia,2016,1900.0,12.1,55.6,Small / Niche Producer
+Slovakia,2017,1900.0,13.36,54.8,Small / Niche Producer
+Slovakia,2018,1900.0,13.55,52.0,Small / Niche Producer
+Slovakia,2019,1900.0,12.68,52.7,Small / Niche Producer
+Slovakia,2020,1900.0,13.7,51.3,Small / Niche Producer
+Slovakia,2021,1900.0,12.15,49.5,Small / Niche Producer
+Slovakia,2022,1900.0,12.04,50.8,Small / Niche Producer
+Slovakia,2023,2375.0,15.45,64.9,Small / Niche Producer
+Slovakia,2024,2375.0,15.4,62.9,Small / Niche Producer
+Slovakia,2025,2375.0,16.91,60.0,Small / Niche Producer
+Switzerland,2010,3000.0,21.18,35.6,Small / Niche Producer
+Switzerland,2011,3000.0,21.01,37.5,Small / Niche Producer
+Switzerland,2012,3000.0,20.36,33.9,Small / Niche Producer
+Switzerland,2013,3000.0,21.51,33.1,Small / Niche Producer
+Switzerland,2014,3000.0,18.97,34.6,Small / Niche Producer
+Switzerland,2015,3000.0,19.26,37.8,Small / Niche Producer
+Switzerland,2016,3000.0,20.6,33.1,Small / Niche Producer
+Switzerland,2017,3000.0,20.4,34.8,Small / Niche Producer
+Switzerland,2018,3000.0,20.28,37.3,Small / Niche Producer
+Switzerland,2019,3000.0,19.08,37.0,Small / Niche Producer
+Switzerland,2020,3000.0,20.2,35.1,Small / Niche Producer
+Switzerland,2021,3000.0,21.85,38.5,Small / Niche Producer
+Switzerland,2022,3000.0,21.17,34.7,Small / Niche Producer
+Switzerland,2023,3000.0,20.92,35.1,Small / Niche Producer
+Switzerland,2024,3000.0,22.13,32.2,Small / Niche Producer
+Switzerland,2025,3000.0,21.12,36.9,Small / Niche Producer
+Netherlands,2010,480.0,3.28,4.2,Small / Niche Producer
+Netherlands,2011,480.0,3.24,3.3,Small / Niche Producer
+Netherlands,2012,480.0,3.55,2.5,Small / Niche Producer
+Netherlands,2013,480.0,3.2,3.5,Small / Niche Producer
+Netherlands,2014,480.0,3.49,2.3,Small / Niche Producer
+Netherlands,2015,480.0,3.41,2.7,Small / Niche Producer
+Netherlands,2016,480.0,3.37,3.7,Small / Niche Producer
+Netherlands,2017,480.0,3.47,4.1,Small / Niche Producer
+Netherlands,2018,480.0,3.18,4.0,Small / Niche Producer
+Netherlands,2019,480.0,3.47,2.1,Small / Niche Producer
+Netherlands,2020,480.0,3.57,0.5,Small / Niche Producer
+Netherlands,2021,480.0,3.45,1.4,Small / Niche Producer
+Netherlands,2022,480.0,3.21,5.5,Small / Niche Producer
+Netherlands,2023,480.0,3.44,2.5,Small / Niche Producer
+Netherlands,2024,480.0,3.08,3.2,Small / Niche Producer
+Netherlands,2025,480.0,3.48,4.6,Small / Niche Producer
+Romania,2010,1300.0,8.67,18.6,Small / Niche Producer
+Romania,2011,1300.0,8.22,20.3,Small / Niche Producer
+Romania,2012,1300.0,9.54,18.6,Small / Niche Producer
+Romania,2013,1300.0,9.61,18.1,Small / Niche Producer
+Romania,2014,1300.0,9.61,21.9,Small / Niche Producer
+Romania,2015,1300.0,8.86,20.6,Small / Niche Producer
+Romania,2016,1300.0,8.63,20.8,Small / Niche Producer
+Romania,2017,1300.0,9.31,17.2,Small / Niche Producer
+Romania,2018,1300.0,9.37,18.0,Small / Niche Producer
+Romania,2019,1300.0,9.01,19.0,Small / Niche Producer
+Romania,2020,1300.0,8.85,18.5,Small / Niche Producer
+Romania,2021,1300.0,8.37,20.2,Small / Niche Producer
+Romania,2022,1300.0,8.41,19.9,Small / Niche Producer
+Romania,2023,1300.0,8.35,21.0,Small / Niche Producer
+Romania,2024,1300.0,8.32,18.4,Small / Niche Producer
+Romania,2025,1300.0,9.42,19.3,Small / Niche Producer
+Slovenia,2010,700.0,4.98,38.7,Small / Niche Producer
+Slovenia,2011,700.0,5.17,36.3,Small / Niche Producer
+Slovenia,2012,700.0,5.2,36.0,Small / Niche Producer
+Slovenia,2013,700.0,4.48,39.0,Small / Niche Producer
+Slovenia,2014,700.0,5.03,33.9,Small / Niche Producer
+Slovenia,2015,700.0,5.14,39.4,Small / Niche Producer
+Slovenia,2016,700.0,4.5,36.5,Small / Niche Producer
+Slovenia,2017,700.0,4.79,37.0,Small / Niche Producer
+Slovenia,2018,700.0,4.46,38.9,Small / Niche Producer
+Slovenia,2019,700.0,4.88,38.2,Small / Niche Producer
+Slovenia,2020,700.0,5.18,34.8,Small / Niche Producer
+Slovenia,2021,700.0,5.11,35.7,Small / Niche Producer
+Slovenia,2022,700.0,4.59,37.1,Small / Niche Producer
+Slovenia,2023,700.0,5.21,38.5,Small / Niche Producer
+Slovenia,2024,700.0,4.47,37.7,Small / Niche Producer
+Slovenia,2025,700.0,4.83,37.1,Small / Niche Producer
+Bulgaria,2010,2000.0,14.05,38.4,Small / Niche Producer
+Bulgaria,2011,2000.0,14.04,41.8,Small / Niche Producer
+Bulgaria,2012,2000.0,13.95,38.8,Small / Niche Producer
+Bulgaria,2013,2000.0,14.03,40.5,Small / Niche Producer
+Bulgaria,2014,2000.0,13.25,38.8,Small / Niche Producer
+Bulgaria,2015,2000.0,13.42,37.0,Small / Niche Producer
+Bulgaria,2016,2000.0,13.94,36.1,Small / Niche Producer
+Bulgaria,2017,2000.0,14.47,39.5,Small / Niche Producer
+Bulgaria,2018,2000.0,14.17,40.1,Small / Niche Producer
+Bulgaria,2019,2000.0,13.57,41.2,Small / Niche Producer
+Bulgaria,2020,2000.0,14.74,38.9,Small / Niche Producer
+Bulgaria,2021,2000.0,14.46,38.6,Small / Niche Producer
+Bulgaria,2022,2000.0,14.86,39.4,Small / Niche Producer
+Bulgaria,2023,2000.0,13.48,37.4,Small / Niche Producer
+Bulgaria,2024,2000.0,14.82,39.4,Small / Niche Producer
+Bulgaria,2025,2000.0,13.68,39.4,Small / Niche Producer

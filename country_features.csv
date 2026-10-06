@@ -1,0 +1,15 @@
+Country,cluster_type,avg_share,share_volatility,share_trend,avg_generation,avg_capacity_factor,kmeans_label,dependency,trajectory
+Belgium,Moderate Producer,48.419,1.35,0.178,39.467,0.764,Stable mid-size,High (>40%),Stable
+Bulgaria,Small / Niche Producer,39.081,1.468,-0.026,14.058,0.802,Stable mid-size,Medium (20-40%),Stable
+Czech Republic,Moderate Producer,35.519,1.454,0.005,29.707,0.789,Stable mid-size,Medium (20-40%),Stable
+Finland,Small / Niche Producer,35.225,5.725,0.832,20.318,0.767,Stable mid-size,Medium (20-40%),Growing
+France,Major Producer,70.006,4.978,-0.345,419.641,0.76,Nuclear giant,High (>40%),Stable
+Germany,Major Producer,10.081,8.144,-1.668,63.291,0.785,Phasing out,Low (<20%),Declining
+Hungary,Small / Niche Producer,48.394,1.259,-0.014,13.912,0.794,Stable mid-size,High (>40%),Stable
+Netherlands,Small / Niche Producer,3.131,1.258,0.001,3.368,0.801,Stable mid-size,Low (<20%),Stable
+Romania,Small / Niche Producer,19.4,1.308,0.002,8.909,0.782,Stable mid-size,Low (<20%),Stable
+Slovakia,Small / Niche Producer,53.838,4.75,0.613,13.411,0.77,Stable mid-size,High (>40%),Growing
+Slovenia,Small / Niche Producer,37.175,1.589,0.002,4.876,0.795,Stable mid-size,Medium (20-40%),Stable
+Spain,Moderate Producer,20.038,1.441,-0.018,48.971,0.787,Stable mid-size,Medium (20-40%),Stable
+Sweden,Moderate Producer,37.856,1.577,0.04,62.704,0.795,Stable mid-size,Medium (20-40%),Stable
+Switzerland,Small / Niche Producer,35.45,1.879,0.009,20.628,0.785,Stable mid-size,Medium (20-40%),Stable
